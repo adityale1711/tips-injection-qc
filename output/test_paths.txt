@@ -1,0 +1,5 @@
+datasets\images\ng\44.png
+datasets\images\ok\6165.png
+datasets\images\ok\5655.png
+datasets\images\ng\4752.png
+datasets\images\ng\6267.png
